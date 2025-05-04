@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/zubairahm3d)
 [![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/zubairahm3d)
 [![Gmail](https://img.shields.io/badge/Email-zubairahm3dd%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:zubairahm3dd@gmail.com)
+[![Medium](https://img.shields.io/badge/Read-Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@zubairahm3d)
 
 ---
 
@@ -47,11 +48,19 @@ A RESTful API for e-commerce applications with secure JWT authentication and rob
 
 ---
 
+## ✍️ Latest Medium Articles
+
+📚 [Explore my articles on Medium](https://medium.com/@zubairahm3d)  
+I write about blockchain, DeFi, smart contract security, and developer tips from real-world experience.
+
+---
+
 ## 📢 Let's Connect
 
 - ✉️ Email: [zubairahm3dd@gmail.com](mailto:zubairahm3dd@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/zubairahm3d](https://linkedin.com/in/zubairahm3d)
 - 🧑‍💻 GitHub: [github.com/zubairahm3d](https://github.com/zubairahm3d)
+- ✍️ Medium: [medium.com/@zubairahm3d](https://medium.com/@zubairahm3d)
 
 ---
 
