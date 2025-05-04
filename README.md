@@ -4,6 +4,7 @@
 [![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/zubairahm3d)
 [![Gmail](https://img.shields.io/badge/Email-zubairahm3dd%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:zubairahm3dd@gmail.com)
 [![Medium](https://img.shields.io/badge/Read-Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@zubairahm3d)
+[![Udemy](https://img.shields.io/badge/Learn%20with-Udemy-A435F0?logo=udemy&logoColor=white&style=for-the-badge)](https://www.udemy.com/user/73fc340b-0332-42ed-9bec-a412df8c4fce/)
 
 ---
 
@@ -11,10 +12,10 @@
 
 I'm a passionate **Blockchain Developer** who believes in the power of decentralization to change the world. Whether it's deploying smart contracts on Ethereum 🛡️, building DeFi apps on Solana 🚀, or securing infrastructures, I bring ideas to life with code.
 
-- 🌟 Blockchain Enthusiast | DeFi Specialist | Smart Contract Wizard
-- 🔹 Hands-on with **Ethereum**, **Solana**, **Rust**, **Solidity**, and **Web3** integrations.
-- 🔹 Love to **audit**, **optimize**, and **secure** smart contracts for real-world applications.
-- 🌟 Always learning, always building.
+- 🌟 Blockchain Enthusiast | DeFi Specialist | Smart Contract Wizard  
+- 🔹 Hands-on with **Ethereum**, **Solana**, **Rust**, **Solidity**, and **Web3** integrations  
+- 🔹 Love to **audit**, **optimize**, and **secure** smart contracts for real-world applications  
+- 🌟 Always learning, always building
 
 > "Code is law, but innovation is limitless."
 
@@ -23,7 +24,10 @@ I'm a passionate **Blockchain Developer** who believes in the power of decentral
 ## 💡 Tech Stack
 
 **Languages:**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 **Blockchain Tools:**  
 Hardhat | Foundry | Truffle | Anchor | Ethers.js | Web3.js | OpenZeppelin | Chainlink | The Graph | IPFS
@@ -38,11 +42,11 @@ JWT | OAuth2 | Secure APIs
 
 ## 💪 Featured Projects
 
-### 🛡️ Auditnix
+### 🛡️ Auditnix  
 A dynamic Linux auditing tool focused on security and file integrity monitoring.  
 ✨ Real-time threat detection | 📈 Scalable architecture | 🔒 Enhanced system audits
 
-### 🌍 E-commerce Secure API
+### 🌍 E-commerce Secure API  
 A RESTful API for e-commerce applications with secure JWT authentication and robust payment system integrations.  
 💳 Secure Transactions | 🌐 Scalable MongoDB backend
 
@@ -55,12 +59,20 @@ I write about blockchain, DeFi, smart contract security, and developer tips from
 
 ---
 
+## 📘 Udemy Course
+
+🎓 [DeFi Developer Interview Prep – 200 Practice Questions](https://www.udemy.com/course/defi-developer-interview-prep-200-practice-questions/?referralCode=4A2A3A1191A3DD3F36AC)  
+Sharpen your DeFi knowledge with 200+ curated questions to get interview-ready.
+
+---
+
 ## 📢 Let's Connect
 
-- ✉️ Email: [zubairahm3dd@gmail.com](mailto:zubairahm3dd@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/zubairahm3d](https://linkedin.com/in/zubairahm3d)
-- 🧑‍💻 GitHub: [github.com/zubairahm3d](https://github.com/zubairahm3d)
-- ✍️ Medium: [medium.com/@zubairahm3d](https://medium.com/@zubairahm3d)
+- ✉️ Email: [zubairahm3dd@gmail.com](mailto:zubairahm3dd@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/zubairahm3d](https://linkedin.com/in/zubairahm3d)  
+- 🧑‍💻 GitHub: [github.com/zubairahm3d](https://github.com/zubairahm3d)  
+- ✍️ Medium: [medium.com/@zubairahm3d](https://medium.com/@zubairahm3d)  
+- 📘 Udemy: [udemy.com/user/73fc340b-0332-42ed-9bec-a412df8c4fce](https://www.udemy.com/user/73fc340b-0332-42ed-9bec-a412df8c4fce/)
 
 ---
 
