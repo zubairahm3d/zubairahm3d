@@ -30,10 +30,10 @@ I'm a passionate **Blockchain Developer** who believes in the power of decentral
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 **Blockchain Tools:**  
-Hardhat | Foundry | Truffle | Anchor | Ethers.js | Web3.js | OpenZeppelin | Chainlink | The Graph | IPFS
+Hardhat | Foundry | Truffle | Anchor | Ethers.js | Web3.js | OpenZeppelin | Chainlink | The Graph | IPFS | Alchemy | Infura 
 
 **Backend & DevOps:**  
-Node.js | Express | MongoDB | PostgreSQL | AWS | Docker | Kubernetes
+Node.js | Express | MongoDB | PostgreSQL | AWS | Docker | Kubernetes 
 
 **Security:**  
 JWT | OAuth2 | Secure APIs
