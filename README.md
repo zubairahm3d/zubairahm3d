@@ -4,8 +4,6 @@
 [![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/zubairahm3d)
 [![Gmail](https://img.shields.io/badge/Email-zubairahm3dd%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:zubairahm3dd@gmail.com)
 [![Medium](https://img.shields.io/badge/Read-Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@zubairahm3d)
-[![Udemy](https://img.shields.io/badge/Learn%20with-Udemy-A435F0?logo=udemy&logoColor=white&style=for-the-badge)](https://www.udemy.com/user/73fc340b-0332-42ed-9bec-a412df8c4fce/)
-
 ---
 
 ## 🔥 About Me
@@ -59,21 +57,12 @@ I write about blockchain, DeFi, smart contract security, and developer tips from
 
 ---
 
-## 📘 Udemy Course
-
-🎓 [DeFi Developer Interview Prep – 200 Practice Questions](https://www.udemy.com/course/defi-developer-interview-prep-200-practice-questions/?referralCode=4A2A3A1191A3DD3F36AC)  
-Sharpen your DeFi knowledge with 200+ curated questions to get interview-ready.
-
----
-
 ## 📢 Let's Connect
 
 - ✉️ Email: [zubairahm3dd@gmail.com](mailto:zubairahm3dd@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/zubairahm3d](https://linkedin.com/in/zubairahm3d)  
 - 🧑‍💻 GitHub: [github.com/zubairahm3d](https://github.com/zubairahm3d)  
 - ✍️ Medium: [medium.com/@zubairahm3d](https://medium.com/@zubairahm3d)  
-- 📘 Udemy: [udemy.com/user/73fc340b-0332-42ed-9bec-a412df8c4fce](https://www.udemy.com/user/73fc340b-0332-42ed-9bec-a412df8c4fce/)
-
 ---
 
 ## 📊 GitHub Stats
