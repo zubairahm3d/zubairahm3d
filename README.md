@@ -8,61 +8,93 @@
 
 ## 🔥 About Me
 
-I'm a passionate **Blockchain Developer** who believes in the power of decentralization to change the world. Whether it's deploying smart contracts on Ethereum 🛡️, building DeFi apps on Solana 🚀, or securing infrastructures, I bring ideas to life with code.
+I'm a passionate **Security Enthusiast** actively transitioning into cybersecurity, specializing in **Penetration Testing**, **DevSecOps**, and **Application Security**. I believe in proactive defense through offensive security practices and building security into every layer of the development lifecycle.
 
-- 🌟 Blockchain Enthusiast | DeFi Specialist | Smart Contract Wizard  
-- 🔹 Hands-on with **Ethereum**, **Solana**, **Rust**, **Solidity**, and **Web3** integrations  
-- 🔹 Love to **audit**, **optimize**, and **secure** smart contracts for real-world applications  
-- 🌟 Always learning, always building
+- 🛡️ Aspiring Penetration Tester | Security Researcher | DevSecOps Engineer  
+- 🔹 Hands-on with **Web Application Security**, **Network Pentesting**, **Cloud Security**, and **Container Security**  
+- 🔹 Love to **break**, **analyze**, and **secure** systems to prevent real-world attacks  
+- 🌟 Always learning, always defending
+- 🚀 **Currently seeking opportunities in Security/Penetration Testing/DevSecOps roles**
 
-> "Code is law, but innovation is limitless."
+> "Security is not a product, but a process."
 
 ---
 
 ## 💡 Tech Stack
 
 **Languages:**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
 
-**Blockchain Tools:**  
-Hardhat | Foundry | Truffle | Anchor | Ethers.js | Web3.js | OpenZeppelin | Chainlink | The Graph | IPFS | Alchemy | Infura | Ganache
+**Penetration Testing Tools:**  
+Burp Suite | OWASP ZAP | Metasploit | Nmap | Wireshark | Nikto | SQLmap | Gobuster | Ffuf | Hydra | John the Ripper | Hashcat
 
-**Backend & DevOps:**  
-Node.js | Express | MongoDB | PostgreSQL | AWS | Docker | Kubernetes 
+**DevSecOps & CI/CD:**  
+Docker | Kubernetes | Jenkins | GitLab CI/CD | GitHub Actions | Terraform | Ansible | MinIO
 
-**Security:**  
-JWT | OAuth2 | Secure APIs
+
+**Security Frameworks & Tools:**  
+OWASP Top 10 | Kali Linux | Parrot OS | CIS Benchmarks | NIST | MITRE ATT&CK | Vulnerability Management
 
 ---
 
-## 💪 Featured Projects
+## 🎯 Open to Opportunities
+
+I'm actively seeking **entry-level to mid-level** positions in:
+
+- 🔒 **Penetration Testing** - Web/Network/Cloud Security Testing
+- 🛡️ **DevSecOps Engineering** - Secure CI/CD, Infrastructure Security
+- 🔍 **Application Security** - SAST/DAST, Security Code Review
+- 🚨 **Security Operations** - Threat Detection, Incident Response
+- ☁️ **Cloud Security** - AWS/Azure/GCP Security Architecture
+
+💼 **Available immediately** | 📍 **Open to remote and on-site opportunities** | 🌍 **Willing to relocate**
+
+---
+
+## 💪 Portfolio Projects
 
 ### 🛡️ Auditnix  
-A dynamic Linux auditing tool focused on security and file integrity monitoring.  
-✨ Real-time threat detection | 📈 Scalable architecture | 🔒 Enhanced system audits
+A dynamic Linux security auditing tool focused on system hardening and file integrity monitoring.  
+[View on GitHub](https://github.com/zubairahm3d/auditnix)
 
-### 🌍 E-commerce Secure API  
-A RESTful API for e-commerce applications with secure JWT authentication and robust payment system integrations.  
-💳 Secure Transactions | 🌐 Scalable MongoDB backend
+
+
+*Building more security projects and contributing to open-source security tools. Check out my repositories!*
+
+---
+
+## 📜 Continuous Learning & Development
+
+**Active Learning Platforms:**
+- 🎓 TryHackMe & HackTheBox Practice Labs
+- 🎓 PortSwigger Web Security Academy
+- 🎓 OWASP Testing Guide & Security Best Practices
+- 🎓 Bug Bounty Programs & Vulnerability Research
+
 
 ---
 
 ## ✍️ Latest Medium Articles
 
 📚 [Explore my articles on Medium](https://medium.com/@zubairahm3d)  
-I write about blockchain, DeFi, smart contract security, and developer tips from real-world experience.
+I write about cybersecurity, penetration testing methodologies, Blockchain, DevSecOps practices, vulnerability research, and security best practices as I learn and grow in the field.
 
 ---
 
 ## 📢 Let's Connect
 
+**Open to discussing opportunities, collaborations, and security projects!**
+
 - ✉️ Email: [zubairahm3dd@gmail.com](mailto:zubairahm3dd@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/zubairahm3d](https://linkedin.com/in/zubairahm3d)  
 - 🧑‍💻 GitHub: [github.com/zubairahm3d](https://github.com/zubairahm3d)  
-- ✍️ Medium: [medium.com/@zubairahm3d](https://medium.com/@zubairahm3d)  
+- ✍️ Medium: [medium.com/@zubairahm3d](https://medium.com/@zubairahm3d)
+
+💬 **Feel free to reach out for job opportunities, security discussions, or collaborations!**  
 ---
 
 ## 📊 GitHub Stats
@@ -78,4 +110,5 @@ I write about blockchain, DeFi, smart contract security, and developer tips from
 
 ---
 
-> ✨ Building decentralized solutions, one block at a time! 🛠️
+> ✨ Ready to secure systems and protect organizations from emerging threats! 🔒  
+> 💼 Actively seeking Security/Penetration Testing/DevSecOps opportunities
